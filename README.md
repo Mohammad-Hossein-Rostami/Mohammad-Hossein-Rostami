@@ -19,9 +19,4 @@
 <!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=python&svgfill=3e75a4">&nbsp;&nbsp;&nbsp;<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=django&svgfill=092e1f">&nbsp;&nbsp;&nbsp; -->
 
 
-### ⭐️ My stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Hosein-rostami&show_icons=true&count_private=true&hide=stars&rank_icon=github&theme=radical&bg_color=0,1f1c2c,928dab&hide_border=true&border_radius=20" width="47%" alt="Olena Vlass stats" align="left" height="190">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Hosein-Rostami&layout=compact&hide_progress=true&langs_count=6&theme=radical&bg_color=0,1f1c2c,928dab&hide_border=true&border_radius=20" width="47%" alt="Olena Vlass top langs" align="right" height="190"/>
